@@ -1,0 +1,28 @@
+{
+  "dinos": [
+    {
+      "id": 1,
+      "title": "T-Rex",
+      "scary": true,
+      "armLength": "10 cm"
+    },
+    {
+      "id": 2,
+      "title": "Diplodocus",
+      "scary": false,
+      "armLength": "20 m"
+    },
+    {
+      "id": 3,
+      "title": "Bracchiosaurus",
+      "scary": false,
+      "armLength": "10 m"
+    },
+    {
+      "id": 4,
+      "title": "Triceratops",
+      "scary": false,
+      "armLength": "6 m"
+    }
+  ]
+}
